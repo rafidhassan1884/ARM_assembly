@@ -1,2 +1,2 @@
 # ARM_assembly
-This repository contains all codes I did while learning ARM Assembly.
+This repository contains all codes I did while learning ARM Assembly. I just started...
